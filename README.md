@@ -5,4 +5,4 @@ a cada nodo para balancearlo con BSF, etc...
 
 Este es un ejemplo de como se ve el grafo:
 
-!()[]
+!()[https://github.com/Belceb45/Grafos-Hamilton-C/blob/c8bed4e1fe9d6f3935d5c98f49bcfa4c9063be6e/ejemplo.png]
